@@ -1,4 +1,4 @@
-package StdDraw;
+package Darts;
 /******************************************************************************
  *  Compilation:  javac Draw.java
  *  Execution:    java Draw

@@ -1,4 +1,4 @@
-package StdDraw;
+package Darts;
 
 import ghlgh.Draw;
 
