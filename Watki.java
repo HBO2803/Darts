@@ -12,9 +12,9 @@ public class Watki {
                 int sekundy=60;
                     while (sekundy > 0) {
                         sekundy--;
-                        for(int i=1;i<101;i++) {
+                        for(int i=1;i<201;i++) {
                             StdDraw.text(-9, -10.5, "Time left:" + sekundy);
-                            StdDraw.pause(10);
+                            StdDraw.pause(5);
                         }
                         StdDraw.setPenColor(StdDraw.WHITE);
                         StdDraw.filledRectangle(-9,-11,1.5,1);
